@@ -41,6 +41,11 @@
     <scope>provided</scope>
 </dependency>	 	
   </dependencies>
+	<properties>
+  <sonar.projectKey>skoussa2_JavaVulnerableLab9</sonar.projectKey>
+  <sonar.organization>skoussa2-github</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
   <build>
     <finalName>JavaVulnerableLab</finalName>
   </build>
